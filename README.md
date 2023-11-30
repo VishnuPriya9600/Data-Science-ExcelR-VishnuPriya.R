@@ -65,6 +65,6 @@ Find all EXCELR Data Science Assignment Here
 
 ___________________________________________________________________
 ## Author
-vishnupriya9600@gmail.com
+vishnupriya9600
 
 **♡ Thank you ♡**
