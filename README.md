@@ -1,4 +1,4 @@
-# Data-Science-ExcelR-VishnuPriya.R
+# Excelr_Data_Science_Assignments
 Find all EXCELR Data Science Assignment Here
 
 ### Basic Statistics Level 1
